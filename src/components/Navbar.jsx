@@ -23,6 +23,7 @@ const Navbar = ({ menuOpen, setMenuOpen }) => { //destructure props
               <a href="#home" className="text-gray-300 hover:text-white transition-colors">Home</a>
               <a href="#about" className="text-gray-300 hover:text-white transition-colors">About</a>
               <a href="#projects" className="text-gray-300 hover:text-white transition-colors">Projects</a>
+              <a href="/resume.pdf" className="text-gray-300 hover:text-white transition-colors">Resume</a>
               <a href="#contact" className="text-gray-300 hover:text-white transition-colors">Contact</a>
             </div>
           </div>

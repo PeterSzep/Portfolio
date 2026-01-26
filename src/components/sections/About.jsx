@@ -1,9 +1,8 @@
 import RevealOnScroll from "./RevealOnScroll";
 
 const About = () => {
-  const frontedSkills = ["React", "JavaScript", "TailWindCSS", "HTML"];
-  const backendSkills = ["Python", "Java", "MySQL", "AWS"];
-
+  const frontedSkills = ["React", "JavaScript", "TailWindCSS", "HTML", "CSS"];
+  const backendSkills = ["Python", "Java","Spring Boot", "MySQL","PostgreSQL"];
   return (
     <section
       id="about"
@@ -16,10 +15,18 @@ const About = () => {
           </h2>
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all bg-white/5 mb-8">
-            <p className="text-gray-300 mb-6">
-              Passionate developer with expertise in building scalable web
-              applications and creating innovative solutions.
-            </p>
+            <p className="text-gray-300 leading-relaxed text-lg mb-6 text-justify sm:text-left">
+  Computer Science student based in Slovakia, currently studying at the 
+  <span className="text-blue-400 font-medium"> Technical University of Košice</span>. 
+  Passionate about technology, problem-solving, and continuous learning. 
+  I enjoy exploring how software can shape and improve everyday life.
+</p>
+<p className="text-gray-300 leading-relaxed text-lg mb-6 text-justify sm:text-left">
+  My focus is on writing clean and efficient code, 
+  improving my programming skills, and mastering modern tools and frameworks. 
+  I enjoy taking on challenges that allow me to grow as a developer — whether through 
+  personal projects, coursework, or collaboration with others.
+</p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div className="rounded-xl p-6">

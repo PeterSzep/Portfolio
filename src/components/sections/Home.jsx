@@ -13,8 +13,8 @@ const Home = () => {
           </h1>
 
           <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-            I'm a Computer Science Student at the Technical University of
-            Košice. I am passionate about software development.
+            Computer Science Student at the Technical University of
+            Košice.
           </p>
 
           <div className="flex justify-center space-x-4">
