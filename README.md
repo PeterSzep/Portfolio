@@ -1,7 +1,7 @@
-# 🚀 Portfolio
+# Portfolio
 This repository houses the source code for my professional portfolio website. It serves as a central hub to showcase my full-stack development journey, technical skills, and the projects I’ve built during my studies at the Technical University of Košice.
 
-Live Demo: [https://peter-szepesi.com/]
+Link: [https://peter-szepesi.com/]
 
 🛠️ Technical Stack
 I built this portfolio with a focus on performance, responsiveness, and clean code.
