@@ -12,11 +12,10 @@ const Home = () => {
             Hi, I'm Peter Szepesi
           </h1>
 
-          <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-            Computer Science Student at the Technical University of
-            Košice.
+          <p className="text-gray-400 text-lg mb-8  mx-auto">
+            Computer Science Student at the Technical University of Košice.
           </p>
-
+          
           <div className="flex justify-center space-x-4">
             <a
               href="#projects"

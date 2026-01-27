@@ -27,7 +27,7 @@ const Projects = () => {
             name={"Gym Companion App"}
             description={"Full-stack web application for gym goers. It maps workouts to a relational database using a Spring Boot API and a React interface. Features include real-time logging, a get-or-create exercise library, and a scrollable session deep-dive, ensuring your training data is as organized as your programming."}
             technologies={["React", "TailWindCSS", "Spring Boot", "PostgreSQL"]}
-            link={"https://github.com/PeterSzep?tab=repositories"}
+            link={"https://github.com/PeterSzep/Gym-Companion-App"}
             />
           </div>
         </div>
