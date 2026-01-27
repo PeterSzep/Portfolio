@@ -47,18 +47,19 @@ const Navbar = ({ menuOpen, setMenuOpen }) => {
                 Projects
               </a>
               <a
+                href="#contact"
+                className="text-gray-300 hover:text-white transition-colors"
+              >
+                Contact
+              </a>
+
+              <a
                 href="/resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white transition-colors"
               >
                 Resume
-              </a>
-              <a
-                href="#contact"
-                className="text-gray-300 hover:text-white transition-colors"
-              >
-                Contact
               </a>
             </div>
           </div>
