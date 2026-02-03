@@ -101,8 +101,19 @@ const About = () => {
                     BIBIONE s.r.o (Feb 2025 - May 2025)
                   </p>
                   <ul className="list-disc list-inside text-sm space-y-1">
-                    <li>Improved website functionality and user experience.</li>
-                    <li>Managed the product catalog and digital assets.</li>
+                    <li>
+                      Enhanced website functionality and front-end user
+                      experience (UX) to streamline the customer journey.
+                    </li>
+                    <li>
+                      Collaborated on improving product data structure and user
+                      experience to support business goals.
+                    </li>
+                    <li>
+                      Maintained and updated the product catalog using CSV-based
+                      imports, ensuring data accuracy for products, pricing, and
+                      images.
+                    </li>
                   </ul>
                 </div>
 
@@ -114,9 +125,17 @@ const About = () => {
                     Syntax Systems (May 2023 - Jun 2023)
                   </p>
                   <ul className="list-disc list-inside text-sm space-y-1">
-                    <li>Installed and configured Linux and Windows OS.</li>
-                    <li>Performed basic system administration in terminal.</li>
-                    <li>Completed assigned programming projects.</li>
+                    <li>
+                      Executed the installation and configuration of Windows and
+                      Linux environments, ensuring optimal system setup and
+                      security.
+                    </li>
+                    <li>
+                      Successfully delivered programming projects and resolved
+                      technical issues, applying core software development
+                      principles, including C# and object-oriented programming,
+                      contributing to team objectives.
+                    </li>
                   </ul>
                 </div>
               </div>
