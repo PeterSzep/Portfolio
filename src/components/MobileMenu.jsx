@@ -46,7 +46,7 @@ const MobileMenu = ({ menuOpen, setMenuOpen }) => {
           Contact
         </a>
         <a
-          href="/resume.pdf"
+          href="/Peter_Szepesi_Junior_Software_Developer.pdf"
           onClick={() => setMenuOpen(false)}
           className={`text-2xl font-semibold text-white my-4 transform transition-all duration-300 ${menuOpen ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"}`}
         >

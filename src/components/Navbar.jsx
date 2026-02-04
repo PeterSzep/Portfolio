@@ -54,7 +54,7 @@ const Navbar = ({ menuOpen, setMenuOpen }) => {
               </a>
 
               <a
-                href="/resume.pdf"
+                href="/Peter_Szepesi_Junior_Software_Developer.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white transition-colors"
