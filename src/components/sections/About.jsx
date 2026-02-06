@@ -91,35 +91,11 @@ const About = () => {
             </div>
 
             <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all bg-white/5">
-              <h3 className="text-xl font-bold mb-4">👩🏻‍💻 Work Experience</h3>
+              <h3 className="text-xl font-bold mb-4">👩🏻‍💻 Experience</h3>
               <div className="space-y-6 text-gray-300 text-left">
                 <div>
                   <h4 className="font-semibold text-blue-400">
-                    Online Store Administrator
-                  </h4>
-                  <p className="text-sm text-gray-400 mb-2">
-                    BIBIONE s.r.o (Feb 2025 - May 2025)
-                  </p>
-                  <ul className="list-disc list-inside text-sm space-y-1">
-                    <li>
-                      Enhanced website functionality and front-end user
-                      experience (UX) to streamline the customer journey.
-                    </li>
-                    <li>
-                      Collaborated on improving product data structure and user
-                      experience to support business goals.
-                    </li>
-                    <li>
-                      Maintained and updated the product catalog using CSV-based
-                      imports, ensuring data accuracy for products, pricing, and
-                      images.
-                    </li>
-                  </ul>
-                </div>
-
-                <div>
-                  <h4 className="font-semibold text-blue-400">
-                    Student Intern
+                    School Internship
                   </h4>
                   <p className="text-sm text-gray-400 mb-2">
                     Syntax Systems (May 2023 - Jun 2023)
