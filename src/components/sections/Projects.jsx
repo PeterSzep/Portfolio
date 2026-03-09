@@ -14,6 +14,21 @@ const Projects = () => {
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+
+            <Project
+              name={"AI Resume Rater"}
+              description={"Full-stack web application that turns resume reviews into structured data. Users upload a PDF, and the Anthropic Claude API returns scored feedback stored in a three-tier relational schema via FastAPI. Features include bcrypt-secured accounts, cascade-linked ratings, and JSON-column criteria breakdowns — so your career gets the same analytical treatment you give your code."}
+              technologies={["React", "TypeScript", "TailWindCSS", "FastAPI", "PostgreSQL", "Anthropic Claude API"]}
+              link={"https://github.com/PeterSzep/resume-rater"}
+            />
+    
+            <Project
+            name={"Gym Companion App"}
+            description={"Full-stack web application for gym goers. It maps workouts to a relational database using a Spring Boot API and a React interface. Features include real-time logging, a get-or-create exercise library, and a scrollable session deep-dive, ensuring your training data is as organized as your programming."}
+            technologies={["React", "TailWindCSS", "Spring Boot", "PostgreSQL"]}
+            link={"https://github.com/PeterSzep/Gym-Companion-App"}
+            />
+
             <Project
               name={"MotorMinder"}
               description={
@@ -21,13 +36,6 @@ const Projects = () => {
               }
               technologies={["Java", "SQLite", "XML"]}
               link={"https://github.com/PeterSzep/MotorMinder"}
-            />
-
-            <Project
-            name={"Gym Companion App"}
-            description={"Full-stack web application for gym goers. It maps workouts to a relational database using a Spring Boot API and a React interface. Features include real-time logging, a get-or-create exercise library, and a scrollable session deep-dive, ensuring your training data is as organized as your programming."}
-            technologies={["React", "TailWindCSS", "Spring Boot", "PostgreSQL"]}
-            link={"https://github.com/PeterSzep/Gym-Companion-App"}
             />
           </div>
         </div>

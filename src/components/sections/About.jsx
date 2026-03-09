@@ -1,14 +1,18 @@
 import RevealOnScroll from "./RevealOnScroll";
 
 const About = () => {
-  const frontedSkills = ["React", "JavaScript", "TailWindCSS", "HTML", "CSS"];
+  const frontedSkills = ["React", "TypeScript","JavaScript", "TailWindCSS", "HTML", "CSS"];
   const backendSkills = [
     "Python",
+    "FastAPI",
+    "C#",
     "Java",
     "Spring Boot",
     "MySQL",
     "PostgreSQL",
+    "SQLite",
   ];
+
   return (
     <section
       id="about"
@@ -102,16 +106,15 @@ const About = () => {
                   </p>
                   <ul className="list-disc list-inside text-sm space-y-1">
                     <li>
-                      Executed the installation and configuration of Windows and
-                      Linux environments, ensuring optimal system setup and
-                      security.
+                      Configured Windows and Linux environments for optimal system performance.
                     </li>
                     <li>
-                      Successfully delivered programming projects and resolved
-                      technical issues, applying core software development
-                      principles, including C# and object-oriented programming,
-                      contributing to team objectives.
+                      Delivered programming tasks using C# and object-oriented design.
                     </li>
+
+                    <li>
+                      Debugged and maintained software applications, applying problem-solving skills.
+                    </li>                  
                   </ul>
                 </div>
               </div>
